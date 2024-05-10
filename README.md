@@ -1,5 +1,5 @@
 Hi! 
-This is Here! and There!, an app that help you manage your favorite list of locations, and share them with your friend.
+This is Here! and There!, an application that help you manage your favorite list of locations and share them with your friend.
 
 The application has the following functions:
 - Register a new account
